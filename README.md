@@ -35,7 +35,7 @@ Aplikasi pembelian tiket bioskop menggunakan flutter dan firebase
 ```
 
 # Halaman Login
-<img src="https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0001.jpg?raw=true" alt="Deskripsi Gambar" width="300" height="500">
+![image alt](https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0001.jpg?raw=true)
 # Halaman Register
 # Halaman Home
 # Halaman Ticket
