@@ -34,6 +34,18 @@ Aplikasi pembelian tiket bioskop menggunakan flutter dan firebase
   7. Tunggu proses debug
 ```
 
+# Halaman Login
+<img src="https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0001.jpg?raw=true" alt="Deskripsi Gambar" width="300" height="500">
+# Halaman Register
+# Halaman Home
+# Halaman Ticket
+# Halaman Profile
+# Halaman Dompet dan transaksi terkini
+# Halaman Detail Film
+# Halaman Booking Film (Bioskop, tanggal, waktu)
+# Halaman Booking Film (pilih kursi)
+
+
 # Tutorial Penggunaan aplikasi only tix
 
 *Cara melakukan registrasi akun:*
@@ -60,7 +72,7 @@ Aplikasi pembelian tiket bioskop menggunakan flutter dan firebase
   2. Tekan top up saldo
 ```
 
-*Melihat list tiket bioskop yang telah di pesan:*
+*Melihat list ticket bioskop yang telah di pesan:*
 
 ```bash
   1. Tekan menu Tiket
