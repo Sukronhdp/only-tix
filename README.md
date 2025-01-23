@@ -1,4 +1,4 @@
-# Nama Anggota Kelompok :
+## Nama Anggota Kelompok :
 - [Sukron Hadi P](https://github.com/Sukronhdp)
 - [Arya Bima Wijaya](https://github.com/)
 - [Muhammad Faqih Raihan](https://github.com/)
@@ -7,14 +7,14 @@
 # Only Tix Project Aplikasi Android & IOS
 Aplikasi pembelian tiket bioskop menggunakan flutter dan firebase
 
-# Fitur
+## Fitur
 - Booking tiket bioskop
 - Top Up saldo
 - Registrasi akun
 - Login akun
 - Melihat tiket bioskop yang dipesan
 
-# Tech Stack
+## Tech Stack
 - Visual Studio Code (untuk menulis kode)
 - Flutter
 - Dart
@@ -22,7 +22,30 @@ Aplikasi pembelian tiket bioskop menggunakan flutter dan firebase
 - API TMDB (untuk sumber data movie yang digunakan)
 - Device Android (untuk menjalankan aplikasi)
 
-# Instalasi
+## Library yang digunakan
+- Flutter SDK
+- Dart
+- cloud_firestore
+- Dio
+- firebase_app_check
+- firebase_auth
+- firebase_core
+- firebase_storage
+- flutter_riverpod
+- freezed_annotation
+- go_router
+- google_fonts
+- image_picker
+- intl
+- json_annotation
+- page_transition
+- path
+- riverpod_annotation
+- Widget
+- Dart Packages
+- API (TMDB)
+
+## Instalasi
 
 ```bash
   1. Download file atau clone repositori ini
@@ -34,25 +57,34 @@ Aplikasi pembelian tiket bioskop menggunakan flutter dan firebase
   7. Tunggu proses debug
 ```
 
-# Halaman Login
+## Halaman Login
 <img src="https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0001.jpg?raw=true" height="500">
-# Halaman Register
+
+## Halaman Register
 <img src="https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0003.jpg?raw=true" height="500">
-# Halaman Home
+
+## Halaman Home
 <img src="https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0004.jpg?raw=true" height="500">
-# Halaman Ticket
+
+## Halaman Ticket
 <img src="https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0010.jpg?raw=true" height="500">
-# Halaman Profile
+
+## Halaman Profile
 <img src="https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0005.jpg?raw=true" height="500">
-# Halaman Dompet dan transaksi terkini
+
+## Halaman Dompet dan transaksi terkini
 <img src="https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0012.jpg?raw=true" height="500">
-# Halaman Detail Film
+
+## Halaman Detail Film
 <img src="https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0008.jpg?raw=true" height="500">
-# Halaman Booking Film (Bioskop, tanggal, waktu)
+
+## Halaman Booking Film (Bioskop, tanggal, waktu)
 <img src="https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0006.jpg?raw=true" height="500">
-# Halaman Booking Film (pilih kursi)
+
+## Halaman Booking Film (pilih kursi)
 <img src="https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0007.jpg?raw=true" height="500">
-# Halaman Booking confirmation (pembayaran)
+
+## Halaman Booking confirmation (pembayaran)
 <img src="https://github.com/Sukronhdp/only-tix/blob/main/screenshot/IMG-20250123-WA0011.jpg?raw=true" height="500">
 
 
