@@ -1,7 +1,7 @@
 ## Nama Anggota Kelompok :
 - [Sukron Hadi P](https://github.com/Sukronhdp)
-- [Arya Bima Wijaya](https://github.com/)
-- [Muhammad Faqih Raihan](https://github.com/)
+- [Arya Bima Wijaya](https://github.com/Aryab13)
+- [Muhammad Faqih Raihan](https://github.com/FqhRaihan)
 - [Agung Setiabudi](https://github.com/)
 
 # Only Tix Project Aplikasi Android & IOS
